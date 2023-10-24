@@ -34,7 +34,7 @@ gantt
     使用者測試   : a8 , after a7 ,7d
     系統修正     : a9 , after a7 , 5d
 ```
-# PERT 圖
+# PERT/CPM圖
 ![pert](pert_diagram第13組.png "PERT圖") 
 
 ### 功能性需求/非功能性需求
@@ -59,6 +59,8 @@ gantt
 ![FDD](功能分解圖.png "功能分解圖") 
 ---
 ### 需求分析的文字描述
+1.
+2.  
 
 
 
