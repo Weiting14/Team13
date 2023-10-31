@@ -78,7 +78,7 @@ gantt
 ![使用案例5](使用案例5.png "使用案例5") 
 
 ### 使用Figma劃出第一個使用案例的動態模擬畫面  
-![figma](figma project.png "figma") 
+![figma](FigmaProject.png "figma") 
 ### 系統環境圖  
 ![系統環境圖](系統環境圖.png "系統環境圖") 
 ### DFD 圖0  
