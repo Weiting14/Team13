@@ -84,5 +84,8 @@ gantt
 ### DFD 圖0  
 ![dfd0](dfd0.png "dfd0")
 
+### 繪出UML 類別圖(class Diagram)
+![UML](UML.png "UML")
+
 
 
