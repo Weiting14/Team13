@@ -34,7 +34,7 @@ gantt
     系統修正     : a9 , after a7 , 5d
 ```
 ### PERT/CPM圖
-![pert](pert_diagram第13組.png "PERT圖") 
+![PERT](PERT.png "PERT圖") 
 
 ### 功能性需求/非功能性需求
 
