@@ -109,6 +109,8 @@ gantt
 
 ---
 ### 請透過分鏡板(storyboard) 的形式向使用者展示初始的螢幕設計:
+![案例1](1.png "圖1") 
+---
 
 ### 請劃出實體關係圖(entity-relationship diagram, ERD)向使用者展示內部的資料庫設計:
 ![ERD](ERD.png "ERD")
